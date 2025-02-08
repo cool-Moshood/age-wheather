@@ -22,8 +22,8 @@ The app fetches weather data from the reliable **OpenWeatherMap API**. Simply en
 
 ## 🧰 **Built With**
 
-- **Frontend:** **HTML**, **CSS**, **JavaScript**
-- **Backend:** **Node.js**, **Express**
+- **Frontend:** **HTML**, **CSS**
+- **Backend:** **JavaScript**
 - **API:** **OpenWeatherMap API**
 
 ---
